@@ -1,0 +1,39 @@
+StataFileTM:00001:01100:GREC:                          :
+00008:00008:00001:
+*! classname: twowaygraph_g
+*! family: twoway
+*! date: 15 Sep 2025
+*! time: 09:21:45
+*! graph_scheme: stcolor
+*! naturallywhite: 1
+*! end
+
+// File created by Graph Editor Recorder.
+// Edit only if you know what you are doing.
+
+.plotregion1.plot4.style.editstyle line(color(blue)) editcopy
+// plot4 color
+
+.plotregion1.plot1.style.editstyle area(shadestyle(color(eltblue))) editcopy
+.plotregion1.plot1.style.editstyle area(linestyle(color(eltblue))) editcopy
+// plot1 color
+
+.plotregion1.plot4.style.editstyle line(width(medthick)) editcopy
+// plot4 width
+
+.plotregion1.plot5.style.editstyle line(color(red)) editcopy
+// plot5 color
+
+.plotregion1.plot2.style.editstyle area(shadestyle(color(stred))) editcopy
+.plotregion1.plot2.style.editstyle area(linestyle(color(stred))) editcopy
+// plot2 color
+
+.plotregion1.plot2.style.editstyle area(shadestyle(color(erose))) editcopy
+.plotregion1.plot2.style.editstyle area(linestyle(color(erose))) editcopy
+// plot2 color
+
+.plotregion1.plot5.style.editstyle line(width(medthick)) editcopy
+// plot5 width
+
+
+// <end>

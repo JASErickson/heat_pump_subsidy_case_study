@@ -1,0 +1,30 @@
+StataFileTM:00001:01100:GREC:                          :
+00008:00008:00001:
+*! classname: twowaygraph_g
+*! family: twoway
+*! date: 23 Sep 2024
+*! time: 11:06:51
+*! graph_scheme: stcolor
+*! naturallywhite: 1
+*! end
+
+// File created by Graph Editor Recorder.
+// Edit only if you know what you are doing.
+
+.plotregion1.plot1.style.editstyle marker(symbol(circle_hollow)) editcopy
+.plotregion1.plot1.style.editstyle marker(fillcolor(gs13)) editcopy
+.plotregion1.plot1.style.editstyle marker(linestyle(color(gs13))) editcopy
+// plot1 edits
+
+.plotregion1.plot2.style.editstyle line(color(blue)) editcopy
+// plot2 color
+
+.plotregion1.plot2.style.editstyle line(width(thick)) editcopy
+// plot2 width
+
+.plotregion1.plot3.style.editstyle line(color(red)) editcopy
+.plotregion1.plot3.style.editstyle line(width(thick)) editcopy
+// plot3 edits
+
+
+// <end>

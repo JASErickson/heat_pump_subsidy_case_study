@@ -1,0 +1,135 @@
+﻿htc,htc description,htc_pass,Group,htc_pass_alt,Group_alt
+0,NONE,0,not_elec,0,not_elec
+1,TYPE UNKNOWN,0,not_elec,0,not_elec
+00A,ELECTRIC/SOLAR,1,central,1,central
+00C,COAL,0,not_elec,0,not_elec
+00D,GAS/WOOD,0,not_elec,0,not_elec
+00E,ELECTRIC,1,central,1,central
+00G,GAS,0,not_elec,0,not_elec
+00I,ELECTRIC/OIL,0,not_elec,0,not_elec
+00M,GAS STEAM,0,not_elec,0,not_elec
+00N,SOLAR/COAL/WOOD,0,not_elec,0,not_elec
+00O,OIL,0,not_elec,0,not_elec
+00P,COAL/WOOD,0,not_elec,0,not_elec
+00Q,SOLAR/OIL,0,not_elec,0,not_elec
+00R,ELECTRIC/RADIANT,1,ductless,1,ductless
+00S,SOLAR,1,central,1,central
+00T,ELECTRIC/HOT WATER,1,ductless,1,ductless
+00W,WOOD,0,not_elec,0,not_elec
+00Y,OIL/WOOD,0,not_elec,0,not_elec
+00Z,GAS SOLAR,0,not_elec,0,not_elec
+999,BYPASS,0,not_elec,0,not_elec
+ACE,CENTRAL,1,central,0,not_elec
+BB0,BASEBOARD,1,ductless,0,not_elec
+BBE,BASEBOARD ELECTRIC,1,ductless,1,ductless
+BBG,BASEBOARD GAS,0,not_elec,0,not_elec
+BBO,BASEBOARD OIL,0,not_elec,0,not_elec
+BBP,BASEBOARD COAL/WOOD,0,not_elec,0,not_elec
+BH0,BASEBOARD HOT WATER,0,not_elec,0,not_elec
+BRE,BASEBOARD ELECTRIC/RADIANT,1,ductless,1,ductless
+BS0,BASEBOARD HOT WATER/STEAM,0,not_elec,0,not_elec
+BTE,BASEBOARD ELECTRIC/HOT WATER,1,ductless,1,ductless
+CF0,CENTRAL FORCED AIR,1,central,0,not_elec
+CFO,CENTRAL FORCED AIR OIL,0,not_elec,0,not_elec
+CL0,CENTRAL,1,central,0,not_elec
+CLE,CENTRAL ELECTRIC,1,central,1,central
+CLG,CENTRAL GAS,0,not_elec,0,not_elec
+CP0,CENTRAL PARTIAL,0,not_elec,0,not_elec
+CV0,CONVECTION,1,central,0,not_elec
+CVE,CONVECTION ELECTRIC,1,central,1,central
+CVG,CONVECTION GAS,0,not_elec,0,not_elec
+CVO,CONVECTION OIL,0,not_elec,0,not_elec
+FA0,FORCED AIR,1,central,0,not_elec
+FAC,FORCED AIR COAL,0,not_elec,0,not_elec
+FAE,FORCED AIR ELECTRIC,1,central,1,central
+FAG,FORCED AIR GAS,0,not_elec,0,not_elec
+FAH,FORCED HOT WATER,0,not_elec,0,not_elec
+FAO,FORCED AIR OIL,0,not_elec,0,not_elec
+FAW,FORCED AIR WOOD,0,not_elec,0,not_elec
+FC0,CEILING FURNACE,1,ductless,0,not_elec
+FCW,FORCED AIR COAL/WOOD,0,not_elec,0,not_elec
+FF0,FLOOR FURNACE,1,ductless,0,not_elec
+FFE,FLOOR FURNACE ELECTRIC,1,ductless,1,ductless
+FFG,FLOOR FURNACE GAS,0,not_elec,0,not_elec
+FFL,FLOOR FURNACE COAL/WOOD,0,not_elec,0,not_elec
+FFO,FLOOR FURNACE OIL,0,not_elec,0,not_elec
+FL0,FLOOR/WALL FURNACE,1,ductless,0,not_elec
+FN0,FORCED AIR NOT DUCTED,1,ductless,0,not_elec
+FP0,FIREPLACE,0,not_elec,0,not_elec
+FR0,FURNACE,1,central,0,not_elec
+FRC,FURNACE COAL,0,not_elec,0,not_elec
+FRE,FURNACE ELECTRIC,1,central,1,central
+FRG,FURNACE GAS,0,not_elec,0,not_elec
+FRW,WOOD FURNACE,0,not_elec,0,not_elec
+FS0,FURNACE/STOVE,0,not_elec,0,not_elec
+GF0,GRAVITY FURNACE,1,central,0,not_elec
+GFG,GRAVITY FURNACE GAS,0,not_elec,0,not_elec
+GN0,GRAVITY NOT DUCTED,1,ductless,0,not_elec
+GR0,GRAVITY,1,central,0,not_elec
+GRC,GRAVITY COAL,0,not_elec,0,not_elec
+GRE,GRAVITY ELECTRIC,1,central,1,central
+GRG,GRAVITY GAS,0,not_elec,0,not_elec
+GRO,GRAVITY OIL,0,not_elec,0,not_elec
+GRS,GRAVITY SOLAR,1,central,1,central
+HA0,HOT AIR,1,central,0,not_elec
+HAE,HOT AIR ELECTRIC,1,central,1,central
+HAO,HOT AIR OIL,0,not_elec,0,not_elec
+HAS,HOT AIR SOLAR,1,central,1,central
+HN0,HOT AIR NOT DUCTED,1,ductless,0,not_elec
+HP0,HEAT PUMP,1,HP,1,HP
+HPE,HEAT PUMP ELECTRIC,1,HP,1,HP
+HPG,HEAT PUMP GAS,1,HP,1,HP
+HPH,HEAT PUMP HOT WATER,1,HP,1,HP
+HPL,HEAT PUMP COAL/WOOD,1,HP,1,HP
+HPO,HEAT PUMP OIL,1,HP,1,HP
+HPS,HEAT PUMP SOLAR,1,HP,1,HP
+HS0,HOT WATER STEAM,1,ductless,0,not_elec
+HW0,HOT WATER,1,ductless,0,not_elec
+HWE,HOT WATER/ELECTRIC,1,ductless,1,ductless
+HWG,HOT WATER GAS,0,not_elec,0,not_elec
+HWL,HOT WATER COAL/WOOD,0,not_elec,0,not_elec
+HWO,HOT WATER OIL,0,not_elec,0,not_elec
+HWS,HOT WATER SOLAR,1,ductless,1,ductless
+HWW,HOT WATER WOOD,0,not_elec,0,not_elec
+IN0,INDUSTRIAL,0,not_elec,0,not_elec
+JT0,JETS,0,not_elec,0,not_elec
+ND0,NOT DUCTED,1,ductless,0,not_elec
+PK0,PACKAGE,1,ductless,0,not_elec
+PKE,PACKAGE ELECTRIC,1,ductless,1,ductless
+PT0,PARTIAL,0,not_elec,0,not_elec
+RC0,RADIANT CEILING,1,ductless,0,not_elec
+RD0,RADIANT,1,ductless,0,not_elec
+RDE,RADIANT ELECTRIC,1,ductless,1,ductless
+RDG,RADIANT GAS,0,not_elec,0,not_elec
+RDH,RADIANT HOT WATER,0,not_elec,0,not_elec
+RDI,RADIANT ELECTRIC/OIL,0,not_elec,0,not_elec
+RDW,RADIANT WOOD,0,not_elec,0,not_elec
+RGO,RADIANT HOT WATER OIL,0,not_elec,0,not_elec
+RR0,RADIATOR,0,not_elec,0,not_elec
+RS0,RADIANT STEAM,0,not_elec,0,not_elec
+SP0,SPACE,1,ductless,1,ductless
+SPG,SPACE GAS,0,not_elec,0,not_elec
+SPL,SPACE COAL/WOOD,0,not_elec,0,not_elec
+SPO,SPACE OIL,0,not_elec,0,not_elec
+SS0,STOVE/SPACE,0,not_elec,0,not_elec
+ST0,STEAM,1,ductless,0,not_elec
+STE,STEAM ELECTRIC,1,ductless,1,ductless
+STG,STEAM GAS,0,not_elec,0,not_elec
+STH,STEAM HOT WATER,0,not_elec,0,not_elec
+STO,STEAM OIL,0,not_elec,0,not_elec
+STW,STEAM WOOD,0,not_elec,0,not_elec
+SV0,STOVE,0,not_elec,0,not_elec
+SVG,STOVE GAS,0,not_elec,0,not_elec
+UN0,UNIT,1,ductless,0,not_elec
+UNE,UNIT ELECTRIC,1,ductless,1,ductless
+UNG,UNIT GAS,0,not_elec,0,not_elec
+WA0,WARM AIR,1,central,0,not_elec
+WF0,WALL FURNACE,1,ductless,0,not_elec
+WFL,WALL FURNACE COAL/WOOD,0,not_elec,0,not_elec
+WFO,WALL FURNACE OIL,0,not_elec,0,not_elec
+WH0,WALL HEAT PUMP,1,HP,1,HP
+WL0,WALL,1,ductless,0,not_elec
+WLE,WALL ELECTRIC,1,ductless,1,ductless
+WLG,WALL GAS,0,not_elec,0,not_elec
+WS0,WOOD STOVE,0,not_elec,0,not_elec
+WU0,WALL UNIT,1,ductless,0,not_elec
